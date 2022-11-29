@@ -1,0 +1,10 @@
+/* DÉBUT CSS VERSION MOBILE */
+
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+
+    section ul.fonctions,
+    section ul.restaurants {
+        flex-direction: column;
+    }
+
+}
